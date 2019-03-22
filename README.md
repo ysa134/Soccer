@@ -34,7 +34,7 @@ Here is the [**Solution**](https://github.com/gulpjs/gulp/issues/171)
     * 2005-2008 https://developers.google.com/open-source/soc/
     * 2015
 
-* Think of a way of displaying the stats information like - students who've been selected more than once, etc.
+* Display the statistic information such as students who have been selected more than once.
 
 * The app currently uses the old datasets that don't contain the project/org descriptions. Efficiently loading the new dataset will be a bit challenging.
 
